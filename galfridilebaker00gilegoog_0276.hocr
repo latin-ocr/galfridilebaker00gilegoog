@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./galfridilebaker00gilegoog_0276.png"; bbox 0 0 3110 5026; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 643 4235 1005 4338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 643 4235 1005 4338">
+     <span class='ocr_line' id='line_1_1' title="bbox 767 4235 876 4274; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 767 4235 861 4274; x_wconf 69' lang='lat' dir='ltr'>oxoun</span> <span class='ocrx_word' id='word_1_2' title='bbox 869 4239 876 4272; x_wconf 68' lang='grc' dir='ltr'>ἔ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 643 4301 1005 4338; baseline 0.006 -2"><span class='ocrx_word' id='word_1_3' title='bbox 643 4301 800 4338; x_wconf 71' lang='lat' dir='ltr'>nxcunnm</span> <span class='ocrx_word' id='word_1_4' title='bbox 813 4303 830 4337; x_wconf 88' lang='lat'><strong>1.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 843 4301 1005 4338; x_wconf 66' lang='lat' dir='ltr'><strong>sammon.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1560 5026">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1560 5026">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1560 5026; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1560 5026; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
